@@ -1,0 +1,17 @@
+// All keywords live here. Add aliases or another language by adding lines.
+export const KEYWORDS = {
+  'ধরি': 'LET', 'let': 'LET',
+  'যদি': 'IF', 'if': 'IF',
+  'নাহলে': 'ELSE', 'else': 'ELSE',
+  'যতক্ষণ': 'WHILE', 'while': 'WHILE',
+  'ফাংশন': 'FN', 'fn': 'FN',
+  'ফেরত': 'RETURN', 'return': 'RETURN',
+  'ছাপো': 'PRINT', 'print': 'PRINT',
+  'সত্য': 'TRUE', 'true': 'TRUE',
+  'মিথ্যা': 'FALSE', 'false': 'FALSE',
+  'এবং': 'AND', 'and': 'AND',
+  'অথবা': 'OR', 'or': 'OR',
+  'না': 'NOT', 'not': 'NOT',
+  'থামো': 'BREAK', 'break': 'BREAK',
+  'পরেরটা': 'CONTINUE', 'continue': 'CONTINUE',
+};
